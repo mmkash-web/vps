@@ -1,0 +1,10 @@
+# EMMKASHTECH VPS Script - Authorized IP List
+# Add your server IP addresses here, one per line
+# Example: 123.456.789.012
+
+# By default, allow any IP (remove this line and add specific IPs for production)
+0.0.0.0
+
+# Add your VPS IP addresses below:
+# 192.168.1.100
+# 203.0.113.50
